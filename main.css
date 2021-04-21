@@ -1,0 +1,166 @@
+
+
+.banner
+{
+    height: 100vh; 
+    background: linear-gradient(90deg ,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%) , url("bg-p.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.center 
+{
+   justify-content: center; 
+   align-items: center;
+}
+
+
+
+.fs-25
+{
+    font-size: 25px;
+}
+
+
+.fs-40
+{
+    font-size: 85px;
+    font-weight: 700;
+}
+
+
+.nuevo-btn 
+{
+    background-color: #1d809f;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 20px 35px;
+    margin-top: 27px;
+}
+
+.nuevo-btn:hover 
+{
+    color: #fff;
+}
+
+
+.grosor
+{
+    font-weight: 700;
+    font-size: 28px;
+}
+
+
+.p 
+{
+    font-size: 18px;
+    font-weight: 100;
+}
+
+
+.btn-propio
+{
+    color: #fff;
+    background-color: #000;
+    padding: 20px 35px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.btn-propio:hover 
+{
+    color: #fff;
+}
+
+
+
+.bg-blueSky
+{
+    background-color: #1d809f;
+}
+
+
+
+.servicios
+{
+    color: #ecb807;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+
+
+.h2
+{
+    color: #fff;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+
+
+.esfera 
+{
+    font-size: 40px;
+    color: #1d809f;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+
+.website
+{
+    background: linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%), url("web.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+
+.grosor2
+{
+    font-weight: 700;
+    font-size: 50px;
+}
+
+
+
+.space
+{
+    font-size: 29px;
+    font-weight: 700;
+    color: #fff;
+}
+
+
+
+.btn-uno
+{
+    background-color: #fff;
+    color: #000;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 22px 37px;
+    margin: 0 10px;
+}
+
+.btn-dos
+{
+    background-color: #000;
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 22px 37px;
+    margin: 0 10px;
+}
+
+.btn-dos:hover
+{
+    color: #fff;
+}
+
+
+
